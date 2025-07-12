@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hey, I’m Jérôme – a passionate career-changer, aspiring developer and creative mind with big ambitions.<br>What hooked me? The connection between code and emotion – just like in truly great games.<br><br>🧠 I'm not just here to write code – I want to craft meaningful experiences.<br>🎮 Gaming, storytelling & emotion drive me – web development is my tool of choice.<br>📚 Currently enrolled at the Developer Akademie | Focus: Frontend – HTML, CSS & JavaScript<br>🤝 Always open to feedback, inspiration & fresh ideas – let’s connect!<br>Let’s build things that matter – with code, creativity, and a bit of heart.</p>
+<p align="center">Hey,<br> I’m Jérôme – a passionate career-changer, aspiring developer and creative mind with big ambitions.<br>What hooked me? The connection between code and emotion – just like in truly great games.<br><br>🧠 I'm not just here to write code – I want to craft meaningful experiences.<br>🎮 Gaming, storytelling & emotion drive me – web development is my tool of choice.<br>📚 Currently enrolled at the Developer Akademie | Focus: Frontend – HTML, CSS & JavaScript<br>🤝 Always open to feedback, inspiration & fresh ideas – let’s connect!<br>Let’s build things that matter – with code, creativity, and a bit of heart.</p>
 
 ###
 
