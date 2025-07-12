@@ -1,3 +1,13 @@
+<div align="center">
+<!--   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div> -->
+
+###
+
+<p align="center">Hey, I’m Jérôme – a passionate career-changer, aspiring developer and creative mind with big ambitions.<br>What hooked me? The connection between code and emotion – just like in truly great games.<br><br>🧠 I'm not just here to write code – I want to craft meaningful experiences.<br>🎮 Gaming, storytelling & emotion drive me – web development is my tool of choice.<br>📚 Currently enrolled at the Developer Akademie | Focus: Frontend – HTML, CSS & JavaScript<br>🤝 Always open to feedback, inspiration & fresh ideas – let’s connect!<br>Let’s build things that matter – with code, creativity, and a bit of heart.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
