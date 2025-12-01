@@ -22,7 +22,7 @@ Let’s build things that matter – with code, creativity, and heart.
 <div align="center">
 <b>Current Projects</b><br>
 • <a href="https://github.com/JermaineJeromeDev/sakura" target="_blank">Sakura (Angular Project)</a><br>
-• <a href="https://github.com/JermaineJeromeDev/another-project" target="_blank">Another Project</a>
+• <a href="https://github.com/JermaineJeromeDev/El-Pollo-Loco" target="_blank">El Pollo Loco</a>
 </div>
 
 ###
