@@ -40,6 +40,10 @@ Let’s build things that matter – with code, creativity, and heart.
 
 ###
 
+<img src="https://raw.githubusercontent.com/JermaineJeromeDev/JermaineJeromeDev/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
 <b>Connect with me:</b><br>
 <a href="https://www.linkedin.com/in/jermaine-j%C3%A9rôme-b%C3%A4rwolf-408703287/" target="_blank">
