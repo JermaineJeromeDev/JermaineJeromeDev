@@ -53,6 +53,21 @@ Let’s build things that matter – with code, creativity, and heart.
 
 ###
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app" alt="Jérômes GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/JermaineJeromeDev/JermaineJeromeDev/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -75,6 +90,14 @@ Let’s build things that matter – with code, creativity, and heart.
 <p align="center">
 <b>Fun:</b> <i>Building, learning & gaming – one line of code at a time.</i>
 </p>
+
+###
+
+<!-- 📊 Weekly Coding Stats (WakaTime) -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JermaineJeromeDev.JermaineJeromeDev&left_color=blue"  />
