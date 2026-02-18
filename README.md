@@ -18,7 +18,7 @@ Let’s build things that matter – with code, creativity, and heart.
 ###
 
 <div align="left">
-  <b>Tech Stack:</b><br>
+  <b>Tech Stack:</b><br><br>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
