@@ -66,6 +66,7 @@ Let’s build things that matter – with code, creativity, and heart.
   </table>
 </div>
 
+
 ###
 
 <img src="https://raw.githubusercontent.com/JermaineJeromeDev/JermaineJeromeDev/output/snake.svg" alt="Snake animation" />
