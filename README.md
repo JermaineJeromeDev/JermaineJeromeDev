@@ -33,6 +33,8 @@ Let’s build things that matter – with code, creativity, and heart.
   <!-- Frameworks & Runtimes -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net" height="40" alt="modern angular logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -50,22 +52,6 @@ Let’s build things that matter – with code, creativity, and heart.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
 </div>
-
-###
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Jérômes GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ###
 
