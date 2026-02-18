@@ -57,14 +57,15 @@ Let’s build things that matter – with code, creativity, and heart.
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app" alt="Jérômes GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Jérômes GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ###
 
