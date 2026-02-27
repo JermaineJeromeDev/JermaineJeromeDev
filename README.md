@@ -6,7 +6,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares." alt="Typing introduction" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - 🔭 I’m currently working on finishing my Fullstack Web Development training.
@@ -15,11 +20,13 @@
 - ⚡ Fun fact: I am a passionate career changer with a hunger for clean code.
 - 👯 I’m looking to collaborate on open-source projects to grow my skills.
 
+
 ## 🧠 My Focus Areas
 - Frontend Development (Angular & TypeScript)
 - Backend Engineering (Python & Django)
 - RESTful API Design & Database Management
 - Clean Code & Software Architecture
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -31,6 +38,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=JermaineJeromeDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jermaine Jérôme Bärwolf's GitHub Trophies" />
 </p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -54,6 +62,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JermaineJeromeDev&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/jermaine-j%C3%A9r%C3%B4me-b%C3%A4rwolf-408703287/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/491794414015" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:jay.jero1901@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
