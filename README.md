@@ -15,13 +15,11 @@
 - ⚡ Fun fact: I am a passionate career changer with a hunger for clean code.
 - 👯 I’m looking to collaborate on open-source projects to grow my skills.
 
-
 ## 🧠 My Focus Areas
 - Frontend Development (Angular & TypeScript)
 - Backend Engineering (Python & Django)
 - RESTful API Design & Database Management
 - Clean Code & Software Architecture
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -33,10 +31,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=JermaineJeromeDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jermaine Jérôme Bärwolf's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=JermaineJeromeDev&theme=githubdark&radius=10" alt="JermaineJeromeDev's Activity Graph" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
