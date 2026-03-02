@@ -15,7 +15,7 @@
 
 ## 📌 About Me
 - 🔭 I’m currently working on finishing my Fullstack Web Development training.
-- 🌱 I’m currently learning Backend development with Node.js and Databases.
+- 🌱 I’m currently learning Backend development with Python & Django.
 - 💻 I have already completed my Frontend specialization (Angular & TypeScript).
 - ⚡ Fun fact: I am a passionate career changer with a hunger for clean code.
 - 👯 I’m looking to collaborate on open-source projects to grow my skills.
