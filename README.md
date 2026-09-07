@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9747ff&center=true&vCenter=true&width=650&lines=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code." alt="Typing introduction" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JermaineJeromeDev">
     <img src="https://komarev.com/ghpvc/?username=JermaineJeromeDev&label=Profile%20views&color=00FFFF&style=flat-square" alt="JermaineJeromeDev's profile views" />
   </a>
-</p>
+</p> -->
 
 ## 📌 About Me
 - 💻 Fullstack Developer with completed training in frontend and backend development.
