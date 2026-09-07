@@ -14,18 +14,20 @@
 
 
 ## 📌 About Me
-- 🔭 I’m currently working on finishing my Fullstack Development training.
-- 🌱 I’m currently learning Backend development with Python & Django.
-- 💻 I have already completed my Frontend specialization (Angular & TypeScript).
-- ⚡ Fun fact: I am a passionate career changer with a hunger for clean code.
-- 👯 I’m looking to collaborate on open-source projects to grow my skills.
+
+* 💻 Fullstack Developer with completed training in frontend and backend development.
+* 🚀 Experienced with Angular & TypeScript on the frontend and Python & Django on the backend.
+* 🧠 Passionate about problem-solving, clean code, and turning ideas into functional applications.
+* 🌱 Always learning, exploring new technologies, and improving my skills.
+* 👯 Open to collaborating on interesting projects and growing together with other developers.
 
 
 ## 🧠 My Focus Areas
-- Frontend Development (Angular & TypeScript)
-- Backend Engineering (Python & Django)
-- RESTful API Design & Database Management
-- Clean Code & Software Architecture
+
+* Frontend Development — Angular, TypeScript & responsive UI
+* Backend Development — Python, Django & REST APIs
+* Databases & Infrastructure — PostgreSQL, Docker & Redis
+* Clean Code, Software Architecture & Continual Learning
 
 
 ## 📊 GitHub Stats & Trophies
