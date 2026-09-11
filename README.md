@@ -58,25 +58,24 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://shields.io" alt="Node.js" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Django" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Django REST Framework" height="40" />
+  <img src="https://jsdelivr.net" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="DRF" width="40" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://shields.io" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="SQLite" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Redis" height="40" />
+  <img src="https://jsdelivr.net" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Redis" width="40" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://shields.io" alt="Docker" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Railway" height="40" />&nbsp;&nbsp;
-  <img src="https://shields.io" alt="Vercel" height="40" />
+  <img src="https://jsdelivr.net" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Vercel" width="40" />
 </p>
-
 
 <h3 align="center">Tools</h3>
 <p align="center">
