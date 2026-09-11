@@ -41,47 +41,50 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Python" width="40" />
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://githubusercontent.com" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="40" alt="Bootstrap" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40" alt="DRF" />
+  <img src="https://githubusercontent.com" width="40" alt="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="40" alt="Django" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="40" alt="DRF" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis" />
+  <img src="https://githubusercontent.com" width="40" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" width="40" alt="Supabase" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" width="40" alt="SQLite" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="40" alt="Redis" />
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="40" alt="Railway" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg" width="40" alt="Vercel" />
+  <img src="https://githubusercontent.com" width="40" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="40" alt="Railway" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" width="40" alt="Vercel" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://vectorlogo.zone" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="REST API" width="40" style="filter: hue-rotate(140deg);" />
 </p>
+
 
 
 <p align="center">
