@@ -75,6 +75,7 @@
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://railway.app/brand/logo-light.png" width="40" />
   <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg" width="40" />
