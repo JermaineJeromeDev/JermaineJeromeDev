@@ -58,25 +58,23 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://worldvectorlogo.com" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vectorlogo.zone" alt="Django REST Framework" width="40" />
+  <img src="https://shields.io" alt="Node.js" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Django" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Django REST Framework" height="40" />
 </p>
-
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://githubusercontent.com" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vectorlogo.zone" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vectorlogo.zone" alt="Redis" width="40" />
+  <img src="https://shields.io" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="SQLite" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Redis" height="40" />
 </p>
-
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vectorlogo.zone" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://vectorlogo.zone" alt="Vercel" width="40" />
+  <img src="https://shields.io" alt="Docker" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Railway" height="40" />&nbsp;&nbsp;
+  <img src="https://shields.io" alt="Vercel" height="40" />
 </p>
 
 
