@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9747ff&center=true&vCenter=true&width=650&lines=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code." alt="Typing introduction" />
 </p>
 
+<p align="center">
+  🌐 <b><a href="https://portfolio-theta-coral-38.vercel.app/" target="_blank">Besuche mein interaktives Live-Portfolio</a></b> 🌐
+</p>
+
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JermaineJeromeDev">
     <img src="https://komarev.com/ghpvc/?username=JermaineJeromeDev&label=Profile%20views&color=00FFFF&style=flat-square" alt="JermaineJeromeDev's profile views" />
@@ -55,22 +59,26 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
-
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Django REST Framework" width="40" />
 </p>
+
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Redis" width="40" />
 </p>
+
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Vercel" width="40" />
 </p>
+
 
 <h3 align="center">Tools</h3>
 <p align="center">
