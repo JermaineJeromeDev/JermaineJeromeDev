@@ -58,23 +58,26 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://jsdelivr.net" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="DRF" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40" alt="DRF" />
+  
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://jsdelivr.net" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Redis" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis" />
+
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://jsdelivr.net" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Vercel" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg" width="40" alt="Railway" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" alt="Vercel" />
+
 </p>
 
 <h3 align="center">Tools</h3>
