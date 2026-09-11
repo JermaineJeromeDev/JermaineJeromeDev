@@ -58,25 +58,25 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Django REST Framework" width="40" />
+  <img src="https://githubusercontent.com" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://worldvectorlogo.com" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Django REST Framework" width="40" />
 </p>
 
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Redis" width="40" />
+  <img src="https://githubusercontent.com" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="SQLite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Redis" width="40" />
 </p>
 
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Vercel" width="40" />
+  <img src="https://githubusercontent.com" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Railway" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://vectorlogo.zone" alt="Vercel" width="40" />
 </p>
 
 
