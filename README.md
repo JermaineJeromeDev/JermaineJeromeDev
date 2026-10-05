@@ -96,7 +96,7 @@
   <a href="https://wa.me/491794414015">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:jermainejerome.dev@gmail.com">
+  <a href="mailto:kontakt@jermaine-jerome-baerwolf.de">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
