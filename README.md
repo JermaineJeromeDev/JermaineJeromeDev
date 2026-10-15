@@ -23,22 +23,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9747ff&center=true&vCenter=true&width=650&lines=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code." alt="Typing introduction" />
 </p>
 
-## 📌 About Me
+## 📌 Über mich
+
 💻 **Fullstack Developer** mit fundierter Ausbildung im Frontend- und Backend-Bereich.<br>
-🚀 Erfahren mit **Angular & TypeScript** auf der Client-Seite und **Python & Django** im Backend.<br>
-🧠 Begeistert von komplexer Problemstellung, **Clean Code** und der Architektur stabiler Webanwendungen.<br>
+🧠 Erfahren mit **Angular & TypeScript** auf der Client-Seite und **Python & Django** im Backend.<br>
+🧩 Begeistert von komplexer Problemstellung, **Clean Code** und der Architektur stabiler Webanwendungen.<br>
 🌱 Kontinuierliche Weiterbildung, Erforschung neuer Technologien und Optimierung meiner Workflows.<br>
-👯 Offen für spannende Open-Source-Projekte, Kollaborationen und den Austausch mit anderen Entwicklern.
+🤝 Offen für spannende Open-Source-Projekte, Kollaborationen und den Austausch mit anderen Entwicklern.
 
-## 🧠 My Focus Areas
-
+## 🧠 Meine Fokusbereiche
 🏛️ **Architektur & Logik** — Konzeptionierung skalierbarer REST-APIs, asynchroner Workflows und robuster Backend-Infrastrukturen.<br>
-📱 **Responsive UI/UX** — Entwicklung performanter, moderner und pixelperfekter Oberflächen für alle Bildschirmgrößen.<br>
-🗄️ **Daten & Sicherheit** — Strukturiertes Datenbankdesign mit relationalen Systemen und sicherer Datenverwaltung.
+🎨 **Responsive UI/UX** — Entwicklung performanter, moderner und pixelperfekter Oberflächen für alle Bildschirmgrößen.<br>
+🔐 **Daten & Sicherheit** — Strukturiertes Datenbankdesign mit relationalen Systemen und sicherer Datenverwaltung.
 
-### 🛠️ Languages & Tools (Full Stack Matrix)
----
-
+## Technologien & Tools (Full Stack Matrix)
 **🎨 Frontend Development**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
@@ -90,7 +88,7 @@
 ![AI Tools](https://img.shields.io/badge/AI_Tools-7F00FF?style=flat&logo=openai&logoColor=white)
 
 
-## 📊 Coding Activity Dashboard
+## 📊 Programmier-Aktivitäten & Statistiken
   
 ![Top language](https://stats.pphat.top/languages?username=JermaineJeromeDev)
 <br/>
