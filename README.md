@@ -57,18 +57,24 @@
 ![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-333333?style=flat&logo=w3c&logoColor=white)
 ![SSL Security](https://img.shields.io/badge/SSL_Security-0A66C2?style=flat&logo=lock&logoColor=white)
 
-**🗄️ Datenbanken & Infrastruktur**  
+**🗄️ Datenbanken**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+![Caching](https://img.shields.io/badge/Caching-0066CC?style=flat&logo=databricks&logoColor=white)
+![Task Queue](https://img.shields.io/badge/Task_Queue-333333?style=flat&logo=celery&logoColor=white)
+
+**⚙️ DevOps & Infrastruktur**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2B3137?style=flat&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) 
 ![Cloudflare CDN](https://img.shields.io/badge/CDN-444444?style=flat&logo=cloudflare&logoColor=white) 
-![Caching](https://img.shields.io/badge/Caching-0066CC?style=flat&logo=databricks&logoColor=white)
-![Task Queue](https://img.shields.io/badge/Task_Queue-333333?style=flat&logo=celery&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0A66C2?style=flat&logo=windows&logoColor=white) 
 
 **🛠️ Tools & Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
@@ -76,15 +82,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![WSL](https://img.shields.io/badge/WSL-0A66C2?style=flat&logo=windows&logoColor=white) 
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnometerminal&logoColor=white)
 
 **📚 Methoden & Konzepte**  
 ![SCRUM](https://img.shields.io/badge/SCRUM-009FDA?style=flat&logo=jira&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat&logo=trello&logoColor=white) 
-![IT Security](https://img.shields.io/badge/IT_Security-333333?style=flat&logo=security&logoColor=white)
 ![Auth](https://img.shields.io/badge/Authentication-333333?style=flat&logo=auth0&logoColor=white) 
+![IT Security](https://img.shields.io/badge/IT_Security-333333?style=flat&logo=security&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-7F00FF?style=flat&logo=openai&logoColor=white)
 
 
